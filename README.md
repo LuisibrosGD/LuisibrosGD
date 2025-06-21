@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 👨‍💻 Soy estudiante de Ingeniería de Software.<br>🚀 Actualmente estoy realizando pequeños proyectos que sumen a mi experiencia.<br>🐍 Uso Python regularmente.<br>🐱 Y sí… ¡me encantan los gatos!
 
 
